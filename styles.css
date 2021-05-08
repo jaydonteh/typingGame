@@ -1,0 +1,11 @@
+body {
+  font-family: "Itim", cursive;
+}
+
+#word {
+  font-family: "Roboto Mono", monospace;
+}
+
+.curText {
+  background-color: yellow;
+}
