@@ -66,7 +66,7 @@ var wordTxt = $("#word");
 wordTxt.text("");
 function start() {
   if (started === false) {
-    // playSound("start");
+    playSound("start");
     playSound("ding");
     started = true;
     startBtn.addClass("disabled");
