@@ -23,3 +23,10 @@ Simple JavaScript usecase with this example game template.
 | | Add/remove class to element.|
 | | Calculate using Math functions.|
 | | Create an event listener.|
+
+# Tutorial Link
+
+[Unlisted] https://www.youtube.com/watch?v=adzSqhOPGiI
+
+---
+This was created to experiment with recording tutorials.
